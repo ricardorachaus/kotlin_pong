@@ -24,3 +24,8 @@ hs_err_pid*
 
 # Mac Files
 .DS_Store
+
+# IntelliJ Files
+.idea/
+.build/
+.out/
